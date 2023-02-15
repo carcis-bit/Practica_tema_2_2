@@ -22,7 +22,7 @@ public class Colegio {
 
 	@Override
 	public String toString() {
-		return "Colegio [nombre=" + nombre + ", numeroAlumnos=" + numeroAlumnos + "]";
+		return "Colegio [nombre=" + nombre + ", alumnos=" + numeroAlumnos + "]";
 	}
 
 }
